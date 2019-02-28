@@ -1,0 +1,9 @@
+/* Document Level Styles */
+
+body {
+    background: #282828 !important;
+}
+
+ion-scroll {
+  padding: 15px;
+}

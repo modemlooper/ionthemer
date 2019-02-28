@@ -1,0 +1,125 @@
+{
+  "namespace": "App",
+  "fsNamespace": "app",
+  "loader": "../app.js",
+  "global": "app.global.js",
+  "core": "app.ensvcwaz.js",
+  "corePolyfilled": "app.oerxehdb.js",
+  "components": {
+    "app-element": {
+      "ios": "tdiwn58i",
+      "md": "4jnihgal"
+    },
+    "app-home": {
+      "$": "pbmfeyk8"
+    },
+    "ion-animation-controller": {
+      "ios": "hy9r4d4m",
+      "md": "l6fyqsqy"
+    },
+    "ion-app": {
+      "ios": "hy9r4d4m",
+      "md": "l6fyqsqy"
+    },
+    "ion-back-button": {
+      "ios": "tdiwn58i",
+      "md": "4jnihgal"
+    },
+    "ion-button": {
+      "ios": "tdiwn58i",
+      "md": "4jnihgal"
+    },
+    "ion-buttons": {
+      "ios": "tdiwn58i",
+      "md": "4jnihgal"
+    },
+    "ion-checkbox": {
+      "ios": "tdiwn58i",
+      "md": "4jnihgal"
+    },
+    "ion-chip": {
+      "ios": "tdiwn58i",
+      "md": "4jnihgal"
+    },
+    "ion-chip-button": {
+      "ios": "tdiwn58i",
+      "md": "4jnihgal"
+    },
+    "ion-content": {
+      "ios": "6wamvbs3",
+      "md": "nl4dnw2w"
+    },
+    "ion-gesture": {
+      "$": "us1dimie"
+    },
+    "ion-gesture-controller": {
+      "$": "us1dimie"
+    },
+    "ion-header": {
+      "ios": "6wamvbs3",
+      "md": "nl4dnw2w"
+    },
+    "ion-icon": {
+      "$": "9t0au0rp"
+    },
+    "ion-item": {
+      "ios": "6wamvbs3",
+      "md": "nl4dnw2w"
+    },
+    "ion-label": {
+      "ios": "6wamvbs3",
+      "md": "nl4dnw2w"
+    },
+    "ion-list": {
+      "ios": "6wamvbs3",
+      "md": "nl4dnw2w"
+    },
+    "ion-nav": {
+      "ios": "hy9r4d4m",
+      "md": "l6fyqsqy"
+    },
+    "ion-note": {
+      "ios": "tdiwn58i",
+      "md": "4jnihgal"
+    },
+    "ion-ripple-effect": {
+      "$": "hwcdpdfc"
+    },
+    "ion-route": {
+      "ios": "hy9r4d4m",
+      "md": "l6fyqsqy"
+    },
+    "ion-router": {
+      "ios": "hy9r4d4m",
+      "md": "l6fyqsqy"
+    },
+    "ion-scroll": {
+      "ios": "6wamvbs3",
+      "md": "nl4dnw2w"
+    },
+    "ion-status-tap": {
+      "ios": "hy9r4d4m",
+      "md": "l6fyqsqy"
+    },
+    "ion-tap-click": {
+      "ios": "hy9r4d4m",
+      "md": "l6fyqsqy"
+    },
+    "ion-title": {
+      "ios": "6wamvbs3",
+      "md": "nl4dnw2w"
+    },
+    "ion-toggle": {
+      "ios": "tdiwn58i",
+      "md": "4jnihgal"
+    },
+    "ion-toolbar": {
+      "ios": "6wamvbs3",
+      "md": "nl4dnw2w"
+    },
+    "my-app": {
+      "ios": "hy9r4d4m",
+      "md": "l6fyqsqy"
+    }
+  }
+}
