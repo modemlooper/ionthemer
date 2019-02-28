@@ -1,2 +1,4 @@
 # Redirect default Netlify subdomain to primary domain
 https://angry-ride-0d4abc.netlify.com/* https://ionthemer.com/:splat 301!
+
+/appframe /appframe/index.html    200
